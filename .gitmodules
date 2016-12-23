@@ -1,0 +1,3 @@
+[submodule "anvil-fb-bot"]
+	path = anvil-fb-bot
+	url = https://github.com/anantdgoel/anvil-fb-bot.git
